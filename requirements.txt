@@ -1,0 +1,4 @@
+# requirements.txt for pip installign
+transformers
+datasets
+torch
