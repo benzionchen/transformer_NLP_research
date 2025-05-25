@@ -1,0 +1,36 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.9.13",
+  "startedAt": "2025-04-12T05:35:44.959521Z",
+  "program": "<python with no main file>",
+  "email": "bzionchen@gmail.com",
+  "root": "C:\\Users\\raiu\\Desktop\\_\\Desktop\\code\\VS_Code\\Projects\\transformer_NLP_research",
+  "host": "raiu",
+  "executable": "C:\\Users\\raiu\\anaconda3\\python.exe",
+  "cpu_count": 12,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3080 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "999312363520",
+      "used": "789359075328"
+    }
+  },
+  "memory": {
+    "total": "34137300992"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 20
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3080 Ti",
+      "memoryTotal": "12884901888",
+      "cudaCores": 10240,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.8"
+}
